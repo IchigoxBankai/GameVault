@@ -85,8 +85,7 @@ export const games = [
     screenshots: [
       `${BASE}assets/games/word-whisper/screenshot1.jpg`,
       `${BASE}assets/games/word-whisper/screenshot2.jpg`,
-      `${BASE}assets/games/word-whisper/screenshot3.jpg`,
-      `${BASE}assets/games/word-whisper/screenshot4.jpg`
+      `${BASE}assets/games/word-whisper/screenshot3.jpg`
     ],
     downloadUrl: "https://github.com/IchigoxBankai/word-whisper/releases/download/word-whisper/app-release.apk",
     githubUrl: "https://github.com/IchigoxBankai/word-whisper"
